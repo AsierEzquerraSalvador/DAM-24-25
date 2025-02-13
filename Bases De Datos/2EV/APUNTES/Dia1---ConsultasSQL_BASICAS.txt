@@ -1,0 +1,67 @@
+APUNTES SQLT
+-----------------------------------------------
+
+ELECT OFICIO                -> Muestra todos los oficios repetidos
+2 FROM EMPLE;
+
+SELECT DISTINCT OFICIO       -> Muestra todos los oficios sin repetir
+2 FROM EMPLE;
+
+SELECT DISTINCT OFICIO       -> Muestra los oficios ordenados por orden
+2 FROM EMPLE
+3 ORDER BY OFICIO;
+
+SELECT DISTINCT OFICIO       -> Muestra los oficios ordenados al revés, desde el final del abecedario
+2 FROM EMPLE
+3 ORDER BY OFICIO DESC;
+
+Oficios y apellidos de los empleados que cobran mas de 1600 euros y ordenados por apellido (la , es para decir y, equivale a un and en java)
+
+SELECT APELLIDO, OFICIO
+FROM EMPLE
+WHERE SALARIO > 1600
+ORDER BY APELLIDO;		
+
+Salario apellido y nombre de todos los directores
+
+
+
+SQL> INSERT INTO EMPLE VALUES(8000,'LOLEZ', 'DIRECTOR',NULL ,SYSDATE, 1500 , 0 ,20);			Insertar, en la tabla empleados, value... ya los datos en orden
+
+
+PONER EN MAYUSCULAS PARA EVITAR PROBLEMAS    <-------ATENCION-----> Las mayusculas solo se usaran en el select, no en las tablas
+
+
+SELECT APELLIDO, SALARIO
+FROM EMPLE
+WHERE UPPER(OFICIO) ='DIRECTOR';
+
+
+-Todos los empleados del DPTO 20 Ordenados por Apellido, Quiero Num, Apellido, Oficio y Dpto
+
+SQL> SELECT APELLIDO,EMP_NO,OFICIO,DEPT_NO
+  2  FROM EMPLE
+  3  WHERE DEPT_NO = '20'
+  4  ORDER BY APELLIDO;
+
+
+-Analistas Ordenados por numero de empleado
+
+
+SQL> SELECT OFICIO
+  2  FROM EMPLE
+  3  WHERE UPPER(OFICIO)='ANALISTA'
+  4  ORDER BY EMP_NO;
+
+
+
+-Calcular la nota media de los alumnos
+
+SQL> SELECT NOMBRE_ALUMNO,(NOTA1+NOTA2+NOTA3)/3 AS NOTA_MEDIA
+  2  FROM NOTAS_ALUMNOS;
+
+
+-Calcular la nota media de los alumnos, Añadiendo las columnas 
+
+SELECT NOMBRE_ALUMNO, NOTA1, NOTA2, NOTA3, (NOTA1+NOTA2+NOTA3)/3 AS NOTA_MEDIA
+2 FROM NOTAS_ALUMNOS;

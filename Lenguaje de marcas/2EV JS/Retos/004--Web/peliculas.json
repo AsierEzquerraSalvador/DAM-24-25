@@ -1,0 +1,101 @@
+[
+    { "titulo": "El Rey León", "genero": "Animación", "año": 1994, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLII-HKTvYEXqSe3XR0xGfbRyftKjlpiXimw&s", "imdb": 8.5 },
+    { "titulo": "Matrix", "genero": "Ciencia Ficción", "año": 1999, "poster": "https://m.media-amazon.com/images/I/613ypTLZHsL._AC_UF1000,1000_QL80_.jpg", "imdb": 8.7 },
+    { "titulo": "Titanic", "genero": "Romance", "año": 1997, "poster": "https://pics.filmaffinity.com/Titanic-321994924-mmed.jpg", "imdb": 7.9 },
+    { "titulo": "Avengers: Endgame", "genero": "Acción", "año": 2019, "poster": "https://i.etsystatic.com/12729518/r/il/7e8166/1996409065/il_570xN.1996409065_pbs3.jpg", "imdb": 8.4 },
+    { "titulo": "Toy Story", "genero": "Animación", "año": 1995, "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "imdb": 8.3 },
+
+    { "titulo": "Batman Begins", "genero": "Acción", "año": 2005, "poster": "https://pics.filmaffinity.com/Batman_Begins-413277928-large.jpg", "imdb": 8.2 },
+    { "titulo": "The Dark Knight", "genero": "Acción", "año": 2008, "poster": "https://m.media-amazon.com/images/I/51rf820GM-L._AC_UF894,1000_QL80_.jpg", "imdb": 9.7 },
+    { "titulo": "The Dark Knight Rises", "genero": "Acción", "año": 2012, "poster": "https://img.posterstore.com/zoom/wb0037-8batman-thedarkknightrises50x70.jpg?auto=compress%2Cformat&fit=max&w=3840", "imdb": 8.4 },
+
+    { "titulo": "Gladiator", "genero": "Drama", "año": 2000, "poster": "https://m.media-amazon.com/images/I/71upcAnlrmL._AC_UF894,1000_QL80_.jpg", "imdb": 8.5 },
+    { "titulo": "Gladiator 2", "genero": "Drama", "año": 2025, "poster": "https://image.tmdb.org/t/p/original/uQIx269ZAzp64iIfBmxxFe73fTt.jpg", "imdb": 7.9 },
+
+    { "titulo": "Sonic the Hedgehog", "genero": "Animación", "año": 2020, "poster": "https://i.ebayimg.com/images/g/WF8AAOSwxM5d6vEj/s-l1200.jpg", "imdb": 6.5 },
+    { "titulo": "Sonic the Hedgehog 2", "genero": "Animación", "año": 2022, "poster": "https://i.ebayimg.com/images/g/m1oAAOSwBENlR0RT/s-l400.jpg", "imdb": 6.7 },
+    { "titulo": "Sonic the Hedgehog 3", "genero": "Animación", "año": 2025, "poster": "https://preview.redd.it/official-poster-for-sonic-the-hedgehog-3-v0-ktykv512g7ld1.jpeg?width=640&crop=smart&auto=webp&s=b3f2a60baec783f487c69ce74ea8403a95e9ff59", "imdb": 7.1 },
+
+    { "titulo": "Deadpool", "genero": "Acción", "año": 2016, "poster": "https://cloud10.todocoleccion.online/series-posters-carteles/tc/2023/12/12/13/435950217_tcimg_A62B2EC0.jpg", "imdb": 8.0 },
+    { "titulo": "Deadpool 2", "genero": "Acción", "año": 2018, "poster": "https://i.pinimg.com/564x/16/5b/05/165b056d4f917e4531c07e0dc2cf4572.jpg", "imdb": 7.7 },
+    { "titulo": "Deadpool & Wolverine", "genero": "Acción", "año": 2024, "poster": "https://i0.wp.com/www.tomosygrapas.com/wp-content/uploads/2024/04/Deadpool-3-poster-1.jpg?ssl=1", "imdb": 8.9 },
+
+    { "titulo": "Scream", "genero": "Terror", "año": 1996, "poster": "https://matthewpeak.com/wp-content/uploads/2023/12/IMG_3349_SCREAM_adj.jpg", "imdb": 7.2 },
+    { "titulo": "Viernes 13", "genero": "Terror", "año": 1980, "poster": "https://static.posters.cz/image/750/posters/viernes-13-mask-i19205.jpg", "imdb": 6.5 },
+    { "titulo": "Halloween", "genero": "Terror", "año": 2018, "poster": "https://hips.hearstapps.com/hmg-prod/images/halloween-2018-poster-oficial-1536308294.jpg", "imdb": 7.8 },
+
+    { "titulo": "The Batman", "genero": "Acción", "año": 2022, "poster": "https://pbs.twimg.com/media/FOTg-kpXoAUTU4i.jpg:large", "imdb": 9.5 },
+
+    { "titulo": "El Lobo de Wall Street", "genero": "Drama", "año": 2013, "poster": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/e/l/el_lobo_de_wall_street_cartel_p_ster.png", "imdb": 8.2 },
+    { "titulo": "Django desencadenado", "genero": "Accion", "año": 2012, "poster": "https://pics.filmaffinity.com/Django_desencadenado-858231343-large.jpg", "imdb": 8.4 },
+    { "titulo": "Malditos Bastardos", "genero": "Guerra", "año": 2009, "poster": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/m/a/malditos_bastardos_portada_p_ster.png", "imdb": 8.3 },
+    { "titulo": "Salvad al Soldado Ryan", "genero": "Guerra", "año": 1998, "poster": "https://m.media-amazon.com/images/I/A1d4fD50-1L.jpg", "imdb": 8.6 },
+    { "titulo": "Oppenheimer", "genero": "Drama", "año": 2023, "poster": "https://i.ebayimg.com/images/g/LvgAAOSwY7dkwDg3/s-l1200.jpg", "imdb": 8.9 },
+
+    { "titulo": "Cars", "genero": "Animación", "año": 2006, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cA-pF2odOgrxhMpwkMiyiXxPljJwDJ2JRw&s", "imdb": 7.1 },
+    { "titulo": "Cars 2", "genero": "Animación", "año": 2011, "poster": "https://image.tmdb.org/t/p/original/kxfxsxJJ8e3vCRRLSfcELHtgMLh.jpg", "imdb": 6.1 },
+    { "titulo": "Cars 3", "genero": "Animación", "año": 2017, "poster": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2016/11/Cars3-p1.jpg", "imdb": 6.7 },
+
+    { "titulo": "Interstellar", "genero": "Ciencia Ficción", "año": 2014, "poster": "https://m.media-amazon.com/images/I/91obuWzA3XL.jpg", "imdb": 8.6 },
+    { "titulo": "Jurassic World", "genero": "Aventura", "año": 2015, "poster": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/j/u/jurassic_world_2015_poster.png", "imdb": 7.0 },
+
+    { "titulo": "Shrek", "genero": "Animación", "año": 2001, "poster": "https://m.media-amazon.com/images/I/61KmJHLRvIL._AC_UF894,1000_QL80_.jpg", "imdb": 7.9 },
+    { "titulo": "Frozen", "genero": "Animación", "año": 2013, "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/ABAAAOSwsNxi4dZu/$_57.JPG?set_id=880000500F", "imdb": 7.4 },
+    { "titulo": "Moana", "genero": "Animación", "año": 2016, "poster": "https://i.ebayimg.com/images/g/VeQAAOSw1fxgwgDv/s-l400.jpg", "imdb": 7.6 },
+
+    { "titulo": "Pulp Fiction", "genero": "Crimen", "año": 1994, "poster": "https://static.posters.cz/image/750/1288.jpg", "imdb": 8.9 },
+
+    { "titulo": "La lista de Schindler", "genero": "Guerra", "año": 1993, "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg", "imdb": 9.0 },
+    { "titulo": "Apocalypse Now", "genero": "Guerra", "año": 1979, "poster": "https://decine21.com/img/upload/obras/apocalypse-now-1766/apocalypse-now-1766-c.jpg", "imdb": 8.4 },
+    { "titulo": "Blade Runner 2049", "genero": "Ciencia Ficción", "año": 2017, "poster": "https://i.ebayimg.com/00/s/MTUwMFg5NzM=/z/R58AAOSwxKxep0qA/$_57.JPG?set_id=8800005007", "imdb": 8.0 },
+   
+    { "titulo": "Blade Runner", "genero": "Ciencia Ficción", "año": 1982, "poster": "https://m.media-amazon.com/images/I/71aof49MNrL._AC_UF894,1000_QL80_.jpg", "imdb": 8.1 },
+    { "titulo": "Star Wars: A New Hope", "genero": "Ciencia Ficción", "año": 1977, "poster": "https://m.media-amazon.com/images/I/81mtn+y3s+L.jpg", "imdb": 8.6 },
+    { "titulo": "Star Wars: The Empire Strikes Back", "genero": "Ciencia Ficción", "año": 1980, "poster": "https://m.media-amazon.com/images/I/71cZjeb1rpL.jpg", "imdb": 8.7 },
+    { "titulo": "Star Wars: Return of the Jedi", "genero": "Ciencia Ficción", "año": 1983, "poster": "https://pics.filmaffinity.com/La_guerra_de_las_galaxias_Episodio_VI_El_retorno_del_Jedi-643019465-large.jpg", "imdb": 8.3 },
+   
+
+    { "titulo": "The Martian", "genero": "Ciencia Ficción", "año": 2015, "poster": "https://www.posterscine.com/media/catalog/product/cache/1c91d037a1f0ef180108abb0973795cc/p/o/poster_marte.png", "imdb": 8.0 },
+    { "titulo": "Inception", "genero": "Ciencia Ficción", "año": 2010, "poster": "https://i.ebayimg.com/images/g/f6EAAOSwk5FUwoOs/s-l1200.jpg", "imdb": 8.8 },
+
+    { "titulo": "Ex Machina", "genero": "Ciencia Ficción", "año": 2014, "poster": "https://m.media-amazon.com/images/I/71XuJ874RqL._AC_UF894,1000_QL80_.jpg", "imdb": 7.7 },
+    { "titulo": "Ready Player One", "genero": "Ciencia Ficción", "año": 2018, "poster": "https://m.media-amazon.com/images/I/91j9eAlIH+L._AC_UF1000,1000_QL80_.jpg", "imdb": 7.4 },
+    { "titulo": "Pacific Rim", "genero": "Ciencia Ficción", "año": 2013, "poster": "https://m.media-amazon.com/images/I/81mor7MGO+L._AC_UF894,1000_QL80_.jpg", "imdb": 6.9 },
+
+    { "titulo": "Dune", "genero": "Ciencia Ficción", "año": 2021, "poster": "https://storage.googleapis.com/pod_public/750/216439.jpg", "imdb": 8.0 },
+
+    { "titulo": "Moon", "genero": "Ciencia Ficción", "año": 2009, "poster": "https://www.originalfilmart.com/cdn/shop/files/moon_2009_original_film_art_b1c9698a-4499-4309-944b-0ef1b863f796_5000x.jpg?v=1711655478", "imdb": 7.8 },
+
+    { "titulo": "Romeo + Juliet", "genero": "Romance", "año": 1996, "poster": "https://i.ebayimg.com/images/g/kkoAAOSwzEVcO6lV/s-l1200.jpg", "imdb": 6.8 },
+    { "titulo": "Eternal Sunshine of the Spotless Mind", "genero": "Romance", "año": 2004, "poster": "https://i.ebayimg.com/images/g/vKcAAMXQBuNQ6Slf/s-l400.jpg", "imdb": 8.3 },
+    { "titulo": "The Vow", "genero": "Romance", "año": 2012, "poster": "https://pics.filmaffinity.com/the_vow-179178511-large.jpg", "imdb": 6.8 },
+    { "titulo": "Her", "genero": "Romance", "año": 2013, "poster": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/h/e/her_poster.png", "imdb": 8.0 },
+    { "titulo": "The Age of Adaline", "genero": "Romance", "año": 2015, "poster": "https://i.etsystatic.com/12729518/r/il/b3395c/2047694265/il_1080xN.2047694265_9ur5.jpg", "imdb": 7.2 },
+
+    { "titulo": "La Noche de los Muertos Vivientes", "genero": "Terror", "año": 1968, "poster": "https://media.posterlounge.com/img/products/360000/351445/351445_poster.jpg", "imdb": 7.9 },
+
+    { "titulo": "El Resplandor", "genero": "Terror", "año": 1980, "poster": "https://m.media-amazon.com/images/I/71kaJK38l4L.jpg", "imdb": 8.4 },
+    { "titulo": "La Cosa", "genero": "Terror", "año": 1982, "poster": "https://i.etsystatic.com/16952472/r/il/6e68ed/1418450658/il_570xN.1418450658_hkl9.jpg", "imdb": 8.1 },
+    { "titulo": "It (Eso)", "genero": "Terror", "año": 2017, "poster": "https://pics.filmaffinity.com/it-787119144-large.jpg", "imdb": 7.4 },
+
+        { "titulo": "El Conjuro", "genero": "Terror", "año": 2013, "poster": "https://i.pinimg.com/474x/b0/e5/bc/b0e5bcb04b28a9bdf9a614adb8455fa3.jpg", "imdb": 7.5 },
+        { "titulo": "Hereditary", "genero": "Terror", "año": 2018, "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/oSkAAOSwihpkQJIX/$_57.JPG?set_id=880000500F", "imdb": 7.3 },
+        { "titulo": "El Aro", "genero": "Terror", "año": 2002, "poster": "https://image.tmdb.org/t/p/original/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg", "imdb": 7.1 },
+        { "titulo": "Verónica", "genero": "Terror", "año": 2017, "poster": "https://www.mubis.es/media/users/6266/192843/el-orfanato-poster-de-karl-fitzgerald-original.jpeg", "imdb": 6.2 },
+        { "titulo": "Torrente, el brazo tonto de la ley", "genero": "Comedia", "año": 1998, "poster": "https://m.media-amazon.com/images/I/71snhvxaUTL.jpg", "imdb": 5.7 },
+        { "titulo": "Torrente 2: Misión en Marbella", "genero": "Comedia", "año": 2001, "poster": "https://m.media-amazon.com/images/M/MV5BZjZlOTgzNmUtNjZlYS00NWFjLTg4ZDktMWY4NDIxMjVjZjdhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "imdb": 6.1 },
+        { "titulo": "Torrente 3: El protector", "genero": "Comedia", "año": 2005, "poster": "https://xl.movieposterdb.com/06_02/2005/0444505/xl_88926_0444505_aa8d33b9.jpg", "imdb": 4.7 },
+        { "titulo": "Torrente 4: Lethal Crisis", "genero": "Comedia", "año": 2011, "poster": "https://m.media-amazon.com/images/M/MV5BNWQwNWZjZTUtNDBiMy00NWMwLWFhOTUtNGNlNDQxNjg2MjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "imdb": 4.6 },
+        { "titulo": "Torrente 5: Operación Eurovegas", "genero": "Comedia", "año": 2014, "poster": "https://pics.filmaffinity.com/Torrente_5_Operaciaon_Eurovegas-707715673-large.jpg", "imdb": 4.4 },
+        { "titulo": "Scary Movie", "genero": "Comedia, Terror", "año": 2000, "poster": "https://m.media-amazon.com/images/I/71EWBeJ+imL.jpg", "imdb": 6.2 },
+        { "titulo": "Scary Movie 2", "genero": "Comedia, Terror", "año": 2001, "poster": "https://m.media-amazon.com/images/S/pv-target-images/1b4a4a7333f75e3b4717e5b772653342ece4cbd37e6bc60e95dcaaece3491a9f.jpg", "imdb": 6.3 },
+        { "titulo": "Scary Movie 3", "genero": "Comedia, Terror", "año": 2003, "poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_.jpg", "imdb": 5.9 },
+        { "titulo": "Scary Movie 4", "genero": "Comedia, Terror", "año": 2006, "poster": "https://i.ebayimg.com/images/g/CmgAAOSwx2dYCr40/s-l400.jpg", "imdb": 5.1 },
+        { "titulo": "Scary Movie 5", "genero": "Comedia, Terror", "año": 2013, "poster": "https://m.media-amazon.com/images/S/pv-target-images/1d34aa776086832c1006c864651cabe40a0ea59a3e90e26f69f0c42ee452e90c.jpg", "imdb": 4.6 },
+        { "titulo": "The Hangover", "genero": "Comedia", "año": 2009, "poster": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", "imdb": 7.7 },
+    { "titulo": "The Hangover Part II", "genero": "Comedia", "año": 2011, "poster": "https://static.posters.cz/image/750/posters/hangover-ii-one-sheet-i12276.jpg", "imdb": 6.4 },
+    { "titulo": "The Hangover Part III", "genero": "Comedia", "año": 2013, "poster": "https://static.posters.cz/image/750/posters/hangover-part-3-i14579.jpg", "imdb": 6.1 }
+    
+    
+    
+]

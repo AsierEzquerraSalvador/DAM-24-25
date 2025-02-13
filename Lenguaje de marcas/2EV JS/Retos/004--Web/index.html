@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Películas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <!-- Imagen pequeña a la izquierda -->
+    <img src="./Imagenes/RocsktarFilms.jpg" alt="Logo" />
+    
+    <h1>Todas las películas</h1>
+    
+    <nav>
+      <button id="filter-all">Todas</button>
+      <button id="filter-animation">Animación</button>
+      <button id="filter-action">Acción</button>
+      <button id="filter-scifi">Ciencia Ficción</button>
+      <button id="filter-romance">Romance</button>
+      <button id="filter-horror">Terror</button>
+      <button id="filter-comedy">Comedia</button>
+    </nav>
+    
+    <div class="controls">
+      <select id="filter-genre">
+        <option value="all">Todos los géneros</option>
+        <option value="Animación">Animación</option>
+        <option value="Acción">Acción</option>
+        <option value="Ciencia Ficción">Ciencia Ficción</option>
+        <option value="Romance">Romance</option>
+        <option value="Terror">Terror</option>
+        <option value="Comedia">Comedia</option>
+      </select>
+      <input type="text" id="search-title" placeholder="Buscar por título">
+      <button id="search-button">Buscar</button>
+      <button id="sort-button">Ordenar por Año</button>
+    </div>
+  </header>
+  
+  <div class="main-layout">
+    <main id="movies-container"></main>
+    
+    <!-- Nuevo apartado: Mejores películas -->
+    <aside id="top-rated">
+      <!-- Texto centrado y estilizado -->
+      <h2>MEJORES PELICULAS</h2>
+      <div id="top-rated-container"></div>
+    </aside>
+  </div>
+
+  <!-- Sección de Trailer y Sinopsis -->
+  <section id="movie-trailer">
+    <div class="trailer-left">
+      <iframe id="trailer-video" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <div class="trailer-right">
+      <h2 id="movie-title">Selecciona una película</h2>
+      <p><strong>Año:</strong> <span id="movie-year">--</span></p>
+      <p><strong>Género:</strong> <span id="movie-genre">--</span></p>
+      <p><strong>Sinopsis:</strong> <span id="movie-synopsis">--</span></p>
+    </div>
+  </section>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
